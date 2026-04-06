@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PROJETO1_ICG_3F_PJ/1.0.0": {
+        "runtime": {
+          "PROJETO1_ICG_3F_PJ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PROJETO1_ICG_3F_PJ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

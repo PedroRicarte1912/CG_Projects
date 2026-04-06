@@ -1,0 +1,16 @@
+D:\ICG\PROJETO1_ICG_3F_PJ\bin\Debug\net8.0-windows\PROJETO1_ICG_3F_PJ.exe
+D:\ICG\PROJETO1_ICG_3F_PJ\bin\Debug\net8.0-windows\PROJETO1_ICG_3F_PJ.deps.json
+D:\ICG\PROJETO1_ICG_3F_PJ\bin\Debug\net8.0-windows\PROJETO1_ICG_3F_PJ.runtimeconfig.json
+D:\ICG\PROJETO1_ICG_3F_PJ\bin\Debug\net8.0-windows\PROJETO1_ICG_3F_PJ.dll
+D:\ICG\PROJETO1_ICG_3F_PJ\bin\Debug\net8.0-windows\PROJETO1_ICG_3F_PJ.pdb
+D:\ICG\PROJETO1_ICG_3F_PJ\obj\Debug\net8.0-windows\PROJETO1_ICG_3F_PJ.Form1.resources
+D:\ICG\PROJETO1_ICG_3F_PJ\obj\Debug\net8.0-windows\PROJETO1_ICG_3F_PJ.csproj.GenerateResource.cache
+D:\ICG\PROJETO1_ICG_3F_PJ\obj\Debug\net8.0-windows\PROJETO1_ICG_3F_PJ.GeneratedMSBuildEditorConfig.editorconfig
+D:\ICG\PROJETO1_ICG_3F_PJ\obj\Debug\net8.0-windows\PROJETO1_ICG_3F_PJ.AssemblyInfoInputs.cache
+D:\ICG\PROJETO1_ICG_3F_PJ\obj\Debug\net8.0-windows\PROJETO1_ICG_3F_PJ.AssemblyInfo.cs
+D:\ICG\PROJETO1_ICG_3F_PJ\obj\Debug\net8.0-windows\PROJETO1_ICG_3F_PJ.csproj.CoreCompileInputs.cache
+D:\ICG\PROJETO1_ICG_3F_PJ\obj\Debug\net8.0-windows\PROJETO1_ICG_3F_PJ.dll
+D:\ICG\PROJETO1_ICG_3F_PJ\obj\Debug\net8.0-windows\refint\PROJETO1_ICG_3F_PJ.dll
+D:\ICG\PROJETO1_ICG_3F_PJ\obj\Debug\net8.0-windows\PROJETO1_ICG_3F_PJ.pdb
+D:\ICG\PROJETO1_ICG_3F_PJ\obj\Debug\net8.0-windows\PROJETO1_ICG_3F_PJ.genruntimeconfig.cache
+D:\ICG\PROJETO1_ICG_3F_PJ\obj\Debug\net8.0-windows\ref\PROJETO1_ICG_3F_PJ.dll
